@@ -28,4 +28,8 @@ Two ways:
 2 Install lts version (recommended)
 ``nvm install --lts``
 
+## How to set default version
+
+``nvm alias default <version of node>`` for example ``nvm alias default 18``
+
 
