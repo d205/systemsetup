@@ -48,8 +48,6 @@
     *   Set Tracking Speed to maximum
     *   Set click to medium
     *   Turn on Tap to Click 
-*   Scroll & Zoom
-    *   Turn off Natural Scrolling
 *   More Gestures
     *   Set ```Swipe between full-screen application``` to Swipe Left or Right with Four Fingers
     *   Set ```Mission Control``` to Swipe up with Four Fingers
