@@ -14,3 +14,18 @@ Add nvm to your shell profile: TO make nvm available every time you open a new t
 
 ``source $(brew --prefix nvm)/nvm.sh``
 
+Now check nvm is install 
+
+``nvm --version``
+
+## Install Node
+
+Two ways:
+
+1 Install latest version
+``nvm install node``
+
+2 Install lts version (recommended)
+``nvm install --lts``
+
+
