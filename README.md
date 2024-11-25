@@ -139,7 +139,7 @@ Go to System Setting/Preferences > Keyboard
 *   Keepingyouawake ``brew install --cask keepingyouawake``
 *   Visual Studio code  ``brew install --cask visual-studio-code``
 *   Hidden Bar ``brew install --cask hiddenbar``
-*   NVM ``brew install nvm``
+*   NVM ``brew install nvm``. Follow detailed installation steps [here](./nvm.md)
 
 
 
