@@ -140,6 +140,7 @@ Go to System Setting/Preferences > Keyboard
 *   Google Chrome   ``brew install --cask google-chrome``
 *   Keepingyouawake ``brew install --cask keepingyouawake``
 *   Visual Studio code  ``brew install --cask visual-studio-code``
+*   Hidden Bar ``brew install --cask hiddenbar``
 
 
 
