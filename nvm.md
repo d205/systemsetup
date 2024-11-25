@@ -2,7 +2,7 @@
 
 Prerequisites:
 
-* Homebrew(refer to [Readme.md](./Readme.md))
+* Homebrew(refer to [Readme.md](./README.md))
 
 Installation steps:
 
