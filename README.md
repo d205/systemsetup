@@ -140,6 +140,7 @@ Go to System Setting/Preferences > Keyboard
 *   Visual Studio code  ``brew install --cask visual-studio-code``
 *   Hidden Bar ``brew install --cask hiddenbar``
 *   NVM ``brew install nvm``. Follow detailed installation steps [here](./nvm.md)
+*   Git ``brew install git``
 
 
 
